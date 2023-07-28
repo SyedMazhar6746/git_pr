@@ -2,7 +2,6 @@
 
 print(2)
 
-print(3)
 
 def add(x, y):
     return x+y
