@@ -3,10 +3,7 @@
 print(2)
 
 print(3)
-print(3)
-print(2)
-print(2)
-print(23)
+
 def add(x, y):
     return x+y
 
@@ -25,4 +22,3 @@ def div(x,y):
 def fn():
     pass
 
-print(2)
