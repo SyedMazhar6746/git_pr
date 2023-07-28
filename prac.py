@@ -20,4 +20,3 @@ def div(x,y):
 
 def fn():
     pass
-
