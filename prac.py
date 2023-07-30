@@ -21,6 +21,4 @@ def add_2(x,y):
 def div(x,y):
     return x/y
 
-def fn():
-    pass
 
